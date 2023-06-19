@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Currency converter App</string>
+    <string name="select_country">select a country</string>
+    <string name="error_message_valid_input">Please select a valid input</string>
+    <string name="error_message_enter_amount">Please enter amount</string>
+</resources>
